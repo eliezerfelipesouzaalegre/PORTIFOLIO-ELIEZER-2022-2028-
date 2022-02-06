@@ -1,0 +1,1015 @@
+* {
+    text-decoration:none;
+    margin:0px;
+    font-family:'Courier New', Courier, monospace;
+    text-align:justify;
+    font-weight:lighter;   
+    list-style:none;
+    text-decoration:none;   
+}
+
+nav {
+    border:1px solid rgb(8, 0, 41);
+    background-color:rgb(3, 3, 39);
+    color:white;
+    font-size:17px;
+    padding:37px;
+}
+
+#divisão001 {
+ display:inline-block;
+ padding:17px;
+}
+
+.bodyprincipal {
+    background: url("img/llll.png")  center ;
+}
+
+#divisão001:hover  >#home001 {
+    color:rgb(129, 129, 129);
+ background-color:rgb(1, 1, 17); 
+ transition:0.3s;
+}
+
+#divisão002:hover  >#nome001 {
+    color:rgb(129, 129, 129);
+ background-color:rgb(1, 1, 17);
+ transition:0.3s;
+}
+
+#divisão003:hover  >#sabermais {
+    color:rgb(129, 129, 129);
+    background-color:rgb(1, 1, 17);
+    transition:0.3s;
+}
+
+#Menu001:hover {
+    color:rgb(129, 129, 129);
+    background-color:rgb(1, 1, 17);
+    height:100px;
+    float:left;
+    transition:0.3s;
+}
+
+#divisão001   li{
+   text-align:right;     
+   }
+
+body {
+    font-family:'Fredericka the Great';    
+    background-attachment:fixed;
+    list-style:none;
+    
+}
+
+nav li{
+  display:inline-block; 
+}
+
+ul {
+    text-align:right;
+}
+a {
+    color:white;
+}
+
+.menu001 {
+    float:left;
+    color:white;
+    padding:17px;
+}
+
+.Contato {
+    border:2px solid white;    
+    background-color:rgb(1, 1, 17);
+    color:white;   
+    text-align:center;    
+    display:none;  
+    padding:7px; 
+}
+
+.menu001:hover > .Contato { 
+    display:block;
+    transition:0.3s;
+}
+
+.menu001:hover .Contato{    
+   background-color:rgb(1, 1, 17); 
+   border:2px solid black;   
+   display:block;
+   transition:0.3s;
+}
+
+#numero {
+    display:none;
+    color:white; 
+    border:1px solid white;   
+    float:left; 
+    background:rgb(1, 1, 17);
+    height:27px;
+    width:127px;
+    font-family:17px;
+    padding-left:1px;
+}
+
+.Contato:hover>#numero{
+    display:block;    
+    transition:0.3s;
+}
+.Contato:hover {
+    color:rgb(97, 97, 97);
+    transition:0.3s;
+}
+
+.menu001:hover {  
+    color:gainsboro;
+    background-color:rgb(1, 1, 17);
+    transition:0.3s;
+}
+
+#numero:hover {
+    color:rgb(97, 97, 97);
+    border:2px solid rgb(97, 97, 97);
+    transition:0.3s;
+   }
+
+#insta001:hover {
+    color:rgb(97, 97, 97);   
+    transition:0.3s;    
+}
+
+#sabermais001:hover {
+    color:rgb(97, 97, 97);
+    transition:0.3s;
+}
+
+#oquefaço0011 li{
+    padding-top:77px;
+    display:inline-block;    
+    margin:auto; 
+}
+
+.investir001 {
+    border-radius:17px;
+    border:2px solid white;  
+    font-family: 'Fredericka the Great', cursive;
+    font-family: 'Waterfall', cursive;
+    margin-right:22px;
+    background-color:rgb(1, 1, 17);
+}
+
+#investir0011 {
+    padding-right:137px;       
+}
+
+#sabersobre001 h1{
+    display:none;
+    color:black;  
+}
+
+#sabersobre001:hover> h1{
+  display:block;
+  padding:50px;
+  transition:0.3s;
+}
+
+#spaner001 {
+    color:orange;
+    font-size:30px; text-align:center; font-family:'Fredericka the Great'   
+}
+
+#spaner002 {
+    color:skyblue;
+    font-size:30px; text-align:center; font-family:'Fredericka the Great'   
+}
+
+#spaner003 {    
+    color:yellow;
+    font-size:30px; text-align:center; font-family:'Fredericka the Great'      
+}
+
+#lista0017 {
+    border:4px solid greenyellow;
+    background-color:black;
+    color:greenyellow;
+    padding-top:21px;    
+}
+
+#lista0017:hover {
+    background: url("img/hr.png") center ;  
+    transition:0.9s;
+}
+
+#estudo001:hover {
+    background: url("img/madeira.png") center;
+    transition:0.3s;
+}
+
+#listacarros001 {   
+ background-image:linear-gradient(to right, black, gray);
+}
+
+#listacarros001:hover  {
+    border:2px solid orangered;
+    background: url("img/ferrari\ 480.jpg")  center ;
+    transition:0.9s;    
+}
+
+#lista0022 {
+    background-image:linear-gradient(to right, rgb(29, 0, 95)50%, rgb(0, 255, 149));
+}
+
+#lista0022:hover {
+    border:2px solid yellow;
+    background-image:linear-gradient(to right, rgb(0, 255, 149), rgb(29, 0, 95) );   
+    transition:0.9s;
+}
+
+#frase-home001 {    
+    margin:17px;
+    float:right;
+    border:2px solid whitesmoke;
+    background-color:white;
+    height:57px;
+    width:350px;
+    border-radius:15px;
+    color:black;
+    padding:17px;
+}
+
+#body007maxdefalt001 {
+    background-color:yellow;
+}
+
+.computernone001 {
+  display:none;
+}
+
+#frase002 {
+    margin-top:177px;
+    float:right;
+    padding:7px;
+    height:110px;
+    width:487px;
+    color:black;
+    border:2px solid whitesmoke;
+    background-color:white;
+    border-radius:15px;
+}
+
+#colunasite001 {
+    display:inline-flex;
+}
+
+#rdc-001 {   
+    text-align:center;
+    margin-top:21px;
+    font-size:9px;    
+    margin-bottom:0px;
+    height:900px;
+    width:800px;
+    margin-left:157px;    
+    color:#ffff;
+    border:2px solid rgba(14, 14, 14, 0);      
+}
+
+#donodosite {
+    color:turquoise;
+    font:x-large;
+}
+
+#h1001 {   
+    text-align:left;
+    margin-top:17px;
+    margin-left:17px;  
+}
+
+#h1001:hover {
+   color:gray;   
+   transition:0.9s;   
+}
+
+#titlegamer {
+    color:greenyellow;
+    font-weight:100;
+    margin:auto;
+    text-shadow: 4px 4px 6px rgb(172, 255, 47);
+}
+
+#navgamer001 {
+    background-color:black;
+}
+
+#body002 {
+    background: url("img/gamerr.jpg") center;
+    background-attachment:fixed;
+}
+
+#menugamer001 {
+    color:greenyellow;
+}
+
+#menugamer001:hover {
+    color:rgb(153, 255, 0);
+}
+
+.paragrafohome001 {
+    font-size:17px;
+    text-align:justify;    
+}
+
+.listaclassificada001 {   
+   border:2px solid rgb(3, 3, 39);
+   width:180px;
+   background-color:white;
+   color:black;
+   padding:17px;
+   margin:3px;
+   border-radius:3px;
+   margin-right:28px;   
+}
+
+#ullihome001 li{
+    display:inline-block;   
+    text-align:center;     
+}
+
+#lista001home007 {    
+    text-align:center;
+}
+
+#h1home007 {    
+    text-align:center;
+}
+
+#paragrafo008 {
+    padding-top:16px;
+}
+
+#paragrafo0011221 {
+    font-size:15px;
+    padding-top:1px;
+}
+
+#tituloparagrafo00107 {
+    padding-top:14px;
+}
+
+#lista5001home001 {   
+    padding-top:73px;
+}
+
+#carrosefeito001 {
+    display:none;
+}
+
+#menulateralcar {
+    background-color:black;
+    width:377px;
+    height:487px;
+}
+
+#listacarros a{
+   color:white;   
+}
+
+a:active{
+  color:orangered;
+}
+
+#listacarros li{
+ margin-bottom:57px;
+}
+
+#footercar001 {
+    background-color:rgb(15, 15, 15);
+    height:57px;  
+}
+
+#titulocar001 {
+    color:white;
+    text-align:center;
+    text-transform:uppercase;
+}
+
+#a101:hover {
+    color:yellow;
+    transition:0.7s;
+    font-size:18px;   
+}
+
+#bodyferrari4882018 {
+    background-color:red;
+}
+
+#a102:hover {
+    color:rgb(255, 36, 36);
+    transition:0.7s;
+    font-size:18px;
+}
+
+#civic-2001 {
+    background-color:grey;
+}
+
+#bodyferrari4882018 {
+    background-color:orange;
+}
+
+#bodygalardo {
+    background-color:yellow;
+}
+
+#a103:hover {
+    color:orange;
+    transition:0.7s;
+    font-size:18px;
+}
+
+#a104:hover {
+    color:orangered;
+    transition:0.7s;
+    font-size:18px;
+}
+
+#a105:hover {
+    color:grey;
+    transition:0.7s;
+    font-size:18px;
+}
+
+#a106:hover {
+    color:rgb(255, 51, 0);
+    transition:0.7s;
+    font-size:18px;
+}
+
+#lbhngalardo {
+    float:right;
+    margin-top:107px;
+    margin-right:120px;    
+}
+
+#aventador007001 {
+    background-color:orange;
+}
+
+#honda-civic001001 {
+    background-color:darkslategrey;
+}
+
+#chevrollet001 {
+    background-color:grey;
+}
+
+#imggalardo {
+    height:277px;
+    width:477px;
+}
+
+#madzarx7002 {
+    background-color:orangered;
+}
+
+#chevrollet {
+    background-color:grey;
+}
+
+#voltar0017 {
+    padding:7px;
+}
+
+#voltar0017:hover {
+    color:grey;
+    font-size:27px;   
+    transition:0.7;
+}
+
+#lista0022:hover {
+    background: url("img/madrid.jpg")  center ;
+    border:2px solid blue;
+    transition:0.9s;
+}
+
+#lista23:hover {
+    background: url("img/git_capa.jpg")  center ;
+    border:2px solid blue;
+    transition:0.9s;
+}
+
+#listapricipal001:hover {
+    background: url("img/github.jpg")  center ;
+    border:2px solid blue;
+    background-position:right;
+    transition:0.9s;
+}
+
+.responsive-bar {
+    display:none;
+}
+
+#location001 {   
+   box-shadow:4px 4px 4px rgba(0, 0, 0, 0.438);
+   position:fixed;
+   padding-left:7px;
+   width:109px;
+   color:white;
+   height:47px;     
+   background-color:darkslategray;
+   border:2px solid black;
+}
+ 
+.listadecasasondeeulife001 {    
+    color:wheat;
+    border:2px solid wheat; 
+    width:97px;
+    margin-top:7px;   
+    margin-left:117px;
+    padding-left:37px;
+    padding-right:37px;
+    text-align:center;
+    display:none;
+}
+
+.listadecasasondeeulife001 a{
+    color:white;
+}
+
+#location001:hover {
+   height:207px;
+   width:452px;
+   border:2px solid black;
+   transition:1.9s;
+   color:yellow;
+   box-shadow:4px 4px 4px rgba(0, 0, 0, 0.459);
+  }
+
+#location001:hover .listadecasasondeeulife001 {
+    display:block;   
+    transition:1.9s;
+}
+
+
+#a41:hover {
+    padding:17px;
+    background: url("img/madrid.jpg")  center ;    
+    border:2px solid white;
+    transition:0.9s;
+}
+
+#a42:hover {
+    padding:17px;
+    background: url("img/madrid.jpg")  center ;       
+    border:2px solid white; 
+    transition:0.9s;
+}
+
+   #a43:hover {
+    padding:17px;
+    background: url("img/madrid.jpg")  center ;
+    border:2px solid white;
+    transition:0.9s;
+}
+
+#a41 {
+    margin-top:17px;
+}
+
+#conteudoprincipal h1{
+   font-family:Arial, Helvetica, sans-serif;
+   font-size:17px;  
+}
+
+#bodymadrid001 {
+    background-color:white;
+}
+
+#escritasobreosvaloresdapagina001 {
+    margin-left:227px;
+}
+
+#conteudoprincipal {
+    font-family:Arial, Helvetica, sans-serif;
+    text-align:justify;
+    margin-top:77px;
+    margin-right:37px;
+    margin-bottom:57px;
+    margin-left:77px;
+    padding-top:17px;
+    padding-right:17px;
+    padding-bottom:17px;
+    padding-left:17px;
+    background-color:white;
+    border:2px solid black;
+    height:577px;
+    width:577px;   
+    margin:auto;
+ }
+
+ #footerlocation001 h1{
+    background-color:darkslategray;
+    color:white;
+    border:2px solid black;
+    text-align:center;     
+    display:none;
+}
+
+#titulolocation001 {
+   font-size:17px;
+}
+
+#listlocation001 li{
+    display:inline-block;
+}
+
+#listlocation001 a{
+    color:white;
+    padding-left:27px;
+    padding-right:27px;
+}
+
+#listimg001 {
+    border:2px solid black;
+    background-color:rgb(14, 14, 14);
+    height:77px;    
+    padding-top:17px;
+    padding-right:17px;
+    padding-bottom:17px;
+    padding-left:17px;
+}
+
+#e1:hover {
+    font-size:19px;
+    color:orange;
+    width:7px;
+    transition:0.9s;
+}
+
+#e2:hover {
+    font-size:19px;
+    color:orange;
+    width:7px;
+    transition:0.9s;
+}
+
+#e3:hover {
+    font-size:19px;
+    color:orange;
+    width:7px;
+    transition:0.9s;
+}
+
+#e4:hover {
+    font-size:19px;
+    color:orange;
+    width:7px;
+    transition:0.9s;
+}
+
+#e5:hover {
+    font-size:19px;
+    color:orange;
+    width:7px;
+    transition:0.9s;
+    
+}
+
+#nevadausa001 {    
+    height:350px;
+    margin-right:377px;
+}
+
+#bodyfotoslocation001 {
+    background-color:rgb(253, 245, 229)
+}
+
+#bodyferrariitalian001 {
+    background-color:red;
+}
+
+#conteudoprincipal001 {
+    display:none;
+}
+
+#comercialelizer001 {
+    display:none;
+}
+
+#rodape-location-2022 {    
+    display:none;
+}
+
+.nevadaresponsive001 {
+    display:none;
+}
+
+.nevadaparaPC001 {
+    display:block;
+    margin-left:117px;
+}
+
+
+
+
+
+
+
+/*-responsive-*/
+
+@media screen and (max-width:957px) {   
+    
+        /*car*/
+    #titulocar001 {
+        display:none;
+    }
+
+    #titulocar001 {
+        display:none;
+    }
+
+    #menulateralcar {
+       width:100%; 
+       margin-top:77px;
+       float:left;      
+    }
+
+    #listacarros li{
+        text-align:center;
+    }
+
+    .carnone {
+        display:none;
+    }
+
+    #footercar001 {
+        display:none; 
+    }
+
+    .bodycarwithcar {
+        height:100px;
+        
+        background:url(img/CIVIC6_S2.jpg)no-repeat center ;
+    }
+
+    #bodyferrari4882018 {
+        height:117px;
+        float:right;       
+        background:url(img/ferrari\ 480.jpg)no-repeat center ;
+        background-color:red;
+    }
+
+    #bodygalardo {        
+        float:right;      
+        background:url(img/maxresdefault.jpg)no-repeat center ;
+        background-color:yellow;
+    }
+
+    #bodyventador {
+        height:117px;
+        float:right;       
+        background:url(img/galardo.jpg)no-repeat center ;
+        background-color:orange;
+    }
+
+    #madzarx7001 {
+        height:117px;
+        float:right;       
+        background:url(img/madza\ rx7.jpg)no-repeat center ;
+        background-color:orangered;
+    }
+
+    #chevrollet {
+        height:117px;
+        float:right;       
+        background:url(img/crevroleet.jpg)no-repeat center ;
+        background-color:red;
+    }
+
+    #bodyferrari4882018 {
+        height:117px;
+        float:right;       
+        background:url(img/ferrari\ 480.jpg)no-repeat center ;
+        background-color:red;
+    }
+
+       /*home*/
+
+#rdc-001 {
+        display:block;
+    }
+
+    #titulo-responsive  {
+        font-size:17px;
+    }
+
+    #menu001 {
+        background-color:rgb(3, 3, 39);
+    }
+    #rdc-001 {   
+        margin:auto;
+        text-align:center;
+        margin-top:21px;
+        font-size:9px;    
+        margin-bottom:0px;
+        height:900px;
+        width:1px;
+        margin-left:1px;    
+        color:#ffff;
+        border:2px solid rgba(14, 14, 14, 0);      
+    }
+
+    #a41 {
+        margin-top:57px;
+    }   
+
+    #footerlocation001 h1{
+        background-color:darkslategray;
+        color:white;
+        border:2px solid black;
+        text-align:center;     
+        display:block;
+    }
+
+    #conteudoprincipal {
+        font-family:Arial, Helvetica, sans-serif;
+        float:right; 
+        text-align:justify;
+        margin-top:77px;
+        margin-right:37px;
+        margin-bottom:57px;
+        margin-left:77px;
+        padding-top:17px;
+        padding-right:17px;
+        padding-bottom:17px;
+        padding-left:17px;
+        background-color:white;
+        border:2px solid black;
+        height:577px;
+        width:577px;           
+        border-top:none;
+     }
+
+    #listlocation001 a{
+        color:white;
+        padding-left:17px;
+        margin-top:7px;
+        padding-right:17px;
+    }
+
+    .computernone001 {
+        display:block;
+      } 
+
+      #conteudoprincipal {
+          display:none;
+      }
+
+      #conteudoprincipal001 {
+        display:block;       
+    }
+
+    #locationonescrita001 {
+        text-align:justify;
+        margin-top:177px;
+        margin-right:17px;
+        margin-bottom:17px;
+        margin-left:17px;
+        background-color:rgb(216, 216, 216);
+        border:2px solid black; 
+
+        padding-top:7px;
+        padding-right:7px;
+        padding-bottom:7px;
+        padding-left:7px;
+    }
+
+    #locationonescrita001  h1, h2, h3, h4, h5, h6, p{
+       font-family:Arial, Helvetica, sans-serif;
+    }
+
+    #locationonescrita001 h1, h2{
+        font-family:Arial, Helvetica, sans-serif;
+        font-size:17px;
+     }
+
+     #spanmadrid001 {
+         font-weight:bold;
+         font-size:19px;
+         text-transform:uppercase;
+     }
+
+     #paragrafolocation0077 {
+          margin-top:7px
+     }
+
+     #h20077 {
+         margin-top:7px;
+     }
+
+     #comercialelizer001 h1{
+         display:block;
+         font-family:Arial, Helvetica, sans-serif;               
+         font-size:19px;   
+         text-align:center;         
+     }
+
+     #encomendarcomeliezer001 {
+         color:white;
+     }
+
+     #comercialelizer001{
+        margin-top:247px;
+        display:block;
+        font-family:Arial, Helvetica, sans-serif;
+        color:white;
+        background-color:red;
+        font-size:11px;
+        text-align:center;         
+        height:300px;
+    }
+
+   #comercialelizer001 {
+        display:block;
+        font-family:Arial, Helvetica, sans-serif;
+        color:black;
+    }
+
+    #comercialelizer001 h1{
+        display:block;
+        font-family:Arial, Helvetica, sans-serif;
+        color:white;
+        font-size:27px;
+        padding-top:7px;
+    }
+
+    #color001077 a{
+        font-family:Arial, Helvetica, sans-serif;
+        color:rgb(12, 12, 12);
+    }
+
+    #color001077 {
+        font-family:Arial, Helvetica, sans-serif;
+        color:rgb(12, 12, 12);
+        margin-top:17px;
+        margin-left:17px;
+        border-radius:7px;
+        border:2px solid white;
+    }
+
+    #color001077:active a{
+        background-color:rgb(107, 107, 107);
+        color:orangered;
+        padding:3px;
+    }
+
+    #botão00177 {
+        border-radius:7px;
+        border:2px solid white;
+        color:black;
+        margin-left:117px;
+    }
+
+    #botão00177 a{       
+        color:black;
+    }
+
+    #botão00177:hover{       
+        background-color:grey;
+        padding:7px;
+    }
+
+    #rodape-location-2022 {
+        background-color:rgb(10, 10, 10);
+        display:block;
+        color:white;
+        font-family:Arial, Helvetica, sans-serif;
+        font-size:11px;
+        height:77px;
+        margin-bottom:0px;
+    }
+
+    #rodape-location-2022 h1 {
+       padding-top:17px;
+       padding-right:17px;
+       padding-bottom:1px;
+       padding-left:17px;       
+    }
+
+    #creditos00100717 {
+       font-size:11px;        
+    }
+
+    .nevadaresponsive001 {
+        display:block;
+        width:359px;
+        height:337px;
+    }
+
+    .nevadaparaPC001 {
+        display:none;
+    }
+
+    .bodyimgfoto-usa-spanish001 {
+         background-color:black; 
+    } 
+}
